@@ -207,4 +207,11 @@
                     color: green;
                     font-weight: bold;
                 }
+                .column--50 {
+                    width: 49%;
+                }
+                
+                .column--50-25 {
+                    width: 49%;
+                }
                 
