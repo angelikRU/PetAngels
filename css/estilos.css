@@ -1,0 +1,210 @@
+.main-footer{
+	background: #222;
+	color:  white;
+	padding: 10px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: .8em;
+}
+.container {
+	width: 100%;
+	margin: auto;
+}
+.container--flex {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+.column {
+	width: 100%;
+}
+
+/* Estilos para el texto de derechos de autor en el pie de página */
+.copy{
+	text-align: center;
+	margin: auto;
+	margin-top: 15px;
+}
+
+/* Estilos para los íconos en el pie de página */
+.main-footer [class*="icon-"]{
+	color: white;
+	text-decoration: none;
+}
+.column_title {
+	font-size: 1.2em;
+	color: green;
+}
+.main-footer .container--flex {
+    align-items: flex-start;
+    }
+    .social-icon{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+    .social-icon [class*="icon-"] {
+        color: white;
+        margin-left: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.1em;
+        width: 35px;
+        height: 35px;
+        background: black;
+        border-radius:50%;	
+    }
+    
+    /* Estilos para los enlaces de las redes sociales */
+    .social-icon_link {
+        text-decoration: none;
+    }
+    
+    .main_about_description .column:nth-child(2) {
+        padding: 10px;
+    }
+    .main_about_description .column:nth-child(2) {
+        padding: 10px;
+    }
+    
+        
+        .column--33 {
+            width: 28%;
+        }
+
+        .banner_img {
+            width: 50%;
+            height: 500%;
+            object-fit: cover;
+        }
+        .container {
+            width: 100%;
+            margin: auto;
+            
+        }
+        .group--color .container{
+            background: #d6cdcd;
+            color: rgb(14, 13, 13);
+            padding: 10px;
+            padding-top: 20px;
+            padding-bottom: 20px;
+            font-size: .8em;
+           
+        }         
+        .pasos {
+            box-sizing: border-box;
+            margin: 0px;
+            min-width: 0px;
+            font-family: inherit;
+            font-weight: 700;
+            font-size: 30px;
+            line-height: 1.3125;
+            padding-bottom: 24px;
+        }
+        .jWQmot{
+        padding-left: 16px;
+        padding-right: 16px;
+        }
+        .jWQmot {
+            box-sizing: border-box;
+            margin: 0px 0px 40px;
+            min-width: 0px;
+           
+        }
+        .gfuSqG{
+        display: flex;}
+        .dcZKBK {
+            box-sizing: border-box;
+            margin: 0px;
+            min-width: 0px;
+            flex: 1 1 0%;
+            flex-direction: row;
+            gap: 12px;
+            -webkit-box-align: center;
+            align-items: center;
+        }
+
+
+        .iMaMwB{
+        padding-top: 40px;
+        padding-bottom: 40px;}
+        
+        .iMaMwB{
+        box-sizing: border-box;
+        margin: 0px;
+        min-width: 0px;
+        padding: 40px 16px;}
+        .iMaMwB {
+            padding-left: 16px;
+            padding-right: 16px;
+        }
+        .iMaMwB {
+            box-sizing: border-box;
+            margin: 0px;
+            min-width: 0px;
+            padding: 40px 16px;
+        }
+        .gfuSqG {
+            display: flex;
+        }
+        .gCXhVM {
+            padding-bottom: 32px;
+            width: 33.3333%;
+        }
+        .gCXhVM {
+            box-sizing: border-box;
+            margin: 0px;
+            min-width: 0px;
+            padding-bottom: 32px;
+            padding-left: 16px;
+            padding-right: 16px;
+            width: 100%;
+            flex-wrap: wrap;
+        }
+        
+
+        .title-header {
+            background-color: #11b1bd;
+            padding: 35px;
+            padding-left: 100px;
+        }
+        form {
+            display: block;
+            margin-top: 0em;
+            
+                font-family: 'Open Sans', Arial, sans-serif;
+                font-size: 14px;
+                font-weight: 300;
+                line-height: 1.6em;
+                color: #656565;
+                /* background: #EFEFEF; */
+            }
+            .all-special .column {
+                margin-bottom: 30px;
+                text-align: center;
+            }
+            .group_title {
+                font-family: 'Impact' ;
+                text-align: center;
+                font-weight: 100;
+                font-size: 1.5em;
+                }
+                .all-special_img {
+                    margin: auto;
+                    max-width: 350px;
+                }
+                
+                .all-special_title{
+                    text-align: center;
+                    font-size: 1.83m;
+                    padding-top: 10px;
+                    padding-bottom: 20px;
+                }
+                .all-special_tipo{
+                    font-size: 1.5em;
+                    color: green;
+                    font-weight: bold;
+                }
+                
